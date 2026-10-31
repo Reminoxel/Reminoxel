@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="#-the-workbench">The workbench</a> ·
-  <a href="#-project-archive">Project archive</a> ·
+  <a href="#%EF%B8%8F-project-archive">Project archive</a> ·
   <a href="#-toolbox">Toolbox</a> ·
   <a href="#-lets-connect">Let's connect</a>
 </p>
