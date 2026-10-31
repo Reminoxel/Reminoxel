@@ -1,59 +1,44 @@
 <p align="center">
-  <img src="assets/reminoxel-banner.gif" width="1200" alt="Reminoxel — Joseph DePalma. Build. Break. Fix. Repeat. Animated neon circuits and an orbiting microchip." />
+  <img src="assets/reminoxel-banner.gif" width="1200" alt="Reminoxel. A wine-red crab constellation with slowly rotating rings on charcoal." />
 </p>
 
-<h1 align="center">Hey, I'm Joseph 👋</h1>
+<h1 align="center">Joseph DePalma</h1>
+
+<p align="center">B.S. Computer Engineering · M.S. Computer Science</p>
 
 <p align="center">
-  <strong>Computer engineer. Software developer. Relentless tinkerer.</strong><br />
-  B.S. Computer Engineering · M.S. Computer Science
-</p>
-
-<p align="center">
-  <a href="#-the-workbench">The workbench</a> ·
-  <a href="#%EF%B8%8F-project-archive">Project archive</a> ·
-  <a href="#-toolbox">Toolbox</a> ·
-  <a href="#-lets-connect">Let's connect</a>
+  <a href="#spirois">SpiroIS</a> ·
+  <a href="#projects">Projects</a> ·
+  <a href="#tools">Tools</a> ·
+  <a href="#contact">Contact</a>
 </p>
 
 ---
 
-I like software that reaches out into the real world: a device responding, a prototype coming to life, a game reacting, or a visualization making a messy dataset finally make sense.
+I like working on projects where software connects to something real. My work includes electronics R&D, embedded systems, prototyping, and test and validation. I also work on games, VR, systems programming, and data visualization.
 
-My work spans **hands-on electronics R&D, embedded systems, prototyping, and test and validation**. I enjoy building something, testing it, breaking it, figuring out why, and getting it working again. The debugging is part of the fun. Usually.
+I enjoy building things, testing them, and figuring out why they don't work yet.
 
-That curiosity also sends me into operating systems, databases, machine learning, VR, and the occasional very serious investigation of NYC rats.
+## SpiroIS
 
-## ⚡ The workbench
+**Patent pending.** A gamified incentive spirometry project focused on making respiratory therapy more interactive and easier to track.
 
-### 🫁 SpiroIS · Patent Pending
+My work on SpiroIS includes hardware prototyping, embedded development, software integration, and testing.
 
-A healthcare technology project exploring **gamified incentive spirometry** to make respiratory therapy more interactive and easier to track.
+## Projects
 
-My work brings together hardware prototyping, embedded development, software integration, and testing. It's where my interests in building real devices and creating interactive experiences meet.
+### Hardware & VR
 
-### 🔧 How I work
-
-| Build | Test | Refine |
-| :--- | :--- | :--- |
-| Turn an idea into a hardware or software prototype. | Investigate behavior, troubleshoot issues, and document results. | Use what the testing reveals to make the next version better. |
-
-## 🗂️ Project archive
-
-The full spread: hardware, systems, data, games, and experiments worth chasing.
-
-### 🔌 Hardware & interactive worlds
-
-| Project | What I explored |
+| Project | Description |
 | :--- | :--- |
 | **SpiroIS — Patent Pending** | Gamified incentive spirometry; hardware, embedded software, integration, and validation. |
 | **Military Stopwatch** | FPGA / Verilog digital design and timing logic. |
 | **Plant Alarm System** | A hardware/software project for monitoring plant conditions and triggering alerts. |
 | **VR Simulations & Games** | Unity-based virtual reality simulations and interactive environments. |
 
-### 🧠 Systems, software & machine learning
+### Systems, software & machine learning
 
-| Project | What I explored |
+| Project | Description |
 | :--- | :--- |
 | **XV6 Kernel Modification** | Operating-system internals through changes to the XV6 teaching kernel. |
 | **Multithreaded Chat Application** | Client-server communication, networking, and multithreading. |
@@ -63,9 +48,9 @@ The full spread: hardware, systems, data, games, and experiments worth chasing.
 | **Ethereum Fee Detective + Mini EVM Gas Arcade** | Ethereum gas fees and transaction behavior, with an arcade-style simulation. |
 | **Custom QR Code Design** | Python-generated QR codes with custom styling and image elements. |
 
-### 📊 Data with a story
+### Data visualization
 
-| Project | What I explored |
+| Project | Description |
 | :--- | :--- |
 | **[NYC Rat Sightings Data Visualization](https://github.com/Reminoxel/dataviz_final_project/tree/main/project-01)** | Sightings by borough, year, weekday, and location type. Rats are unfortunately good data. |
 | **[Data Visualization Mini-Project 2](https://github.com/Reminoxel/dataviz_final_project/tree/main/project-02)** | Birth patterns, weather trends, spatial data, and model visualizations in R. |
@@ -73,10 +58,7 @@ The full spread: hardware, systems, data, games, and experiments worth chasing.
 | **Essential Construction Data Visualization** | Comparing essential NYC construction projects by borough and category. |
 | **[Data Visualization & Reproducible Research](https://github.com/Reminoxel/dataviz_final_project)** | Revised visualization projects plus Tampa weather and concrete-strength analysis, interactive charts, accessibility, and reproducible reports. |
 
-## 🧰 Toolbox
-
-<details open>
-<summary><strong>The tools behind the tinkering</strong></summary>
+## Tools
 
 | Area | Languages & tools |
 | :--- | :--- |
@@ -85,14 +67,6 @@ The full spread: hardware, systems, data, games, and experiments worth chasing.
 | **Data & databases** | RStudio · tidyverse · ggplot2 · spatial visualization · data cleaning · Oracle SQL · relational modeling |
 | **Build & create** | Unity · Fusion 360 · Blender · GitHub · VS Code · Linux / Unix |
 
-</details>
+## Contact
 
-## 📫 Let's connect
-
-Have an interesting hardware problem, an embedded project, or an idea that needs a prototype? I'd like to hear about it.
-
-**[LinkedIn](https://www.linkedin.com/in/joseph-depalma-4942a52b4/)** · **[Joey.DePalma5797@gmail.com](mailto:Joey.DePalma5797@gmail.com)** · **[GitHub](https://github.com/Reminoxel)**
-
----
-
-<p align="center"><sub>Somewhere between “that should work” and “let me try one more thing.”</sub></p>
+[LinkedIn](https://www.linkedin.com/in/joseph-depalma-4942a52b4/) · [Joey.DePalma5797@gmail.com](mailto:Joey.DePalma5797@gmail.com) · [GitHub](https://github.com/Reminoxel)
