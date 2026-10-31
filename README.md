@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/reminoxel-banner.gif" width="1200" alt="Reminoxel. A wine-red crab constellation with slowly rotating rings on charcoal." />
+  <img src="assets/reminoxel-regi.gif" width="1200" alt="Reminoxel. A wine-red crab constellation with slowly rotating rings on charcoal." />
 </p>
 
 <h1 align="center">Joseph DePalma</h1>
