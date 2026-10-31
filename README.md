@@ -32,7 +32,7 @@ My work on SpiroIS includes hardware prototyping, embedded development, software
 | Project | Description |
 | :--- | :--- |
 | **R.E.G.I — Residential Electronic Guidance Interface** | My local desktop assistant, with voice interaction, memory, research and coding tools, and a custom animated interface. |
-| **Rem's Enchantaporeum** | My Minecraft Forge mod, expanding enchantments across weapons, armor, tools, workstations, mounts, and more. Custom gameplay mechanics, progression, and client/server testing. |
+| **[Rem's Enchantaporeum](https://www.curseforge.com/minecraft/mc-mods/rems-enchantaporeum)** | My Minecraft Forge mod, expanding enchantments across weapons, armor, tools, workstations, mounts, and more. Custom gameplay mechanics, progression, and client/server testing. |
 
 ### Hardware & VR
 
